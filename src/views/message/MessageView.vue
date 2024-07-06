@@ -12,7 +12,7 @@
 						</div>
 						<img
 							src="https://media.licdn.com/dms/image/C510BAQFjaULATkW3cw/company-logo_200_200/0/1630567301263/qiscus_logo?e=1728518400&v=beta&t=0MvnNsuYfCorVLoQ9yUJxlWp-E0CMmbuOmFsWd77f4Y"
-							alt="Qiscus Logo"
+							alt="Preview Image"
 							class="rounded-full mx-1 w-10" />
 
 						<div class="text-gray-900 ml-1 font-semibold">Frank</div>

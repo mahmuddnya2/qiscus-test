@@ -12,7 +12,7 @@
 						</div>
 						<img
 							:src="group_image"
-							alt="Qiscus Logo"
+							alt="Group Image"
 							class="rounded-full mx-1 w-10" />
 
 						<div class="text-gray-900 ml-1 font-semibold">
